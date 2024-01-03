@@ -1,4 +1,4 @@
-## Frontend Projeleri
+## Site Kodlama
 
 Bu repo, youtube kanalımda kodlama videosunu çektiğim projelerin kaynak kodlarıdır. Bu projelerin nasıl yapıldığını, web siteme göz atarak görebilirsiniz. 
 
