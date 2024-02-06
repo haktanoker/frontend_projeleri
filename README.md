@@ -21,11 +21,3 @@ Bu repo, youtube kanalımda kodlama videosunu çektiğim projelerin kaynak kodla
 > [Buraya Tıklayarak](https://youtu.be/qfiy-P94-0A) proje videosuna gidebilirsiniz.
 
 ---
-### [Emlak Projesi](emlak_sitesi)
-
-![Emlak Site Gif](gifs/emlak_site.gif)
-
-> Bir emlak sitesini kodladığım tek sayfalık bir projedir.
-> [Buraya Tıklayarak](https://youtu.be/qfiy-P94-0A) proje videosuna gidebilirsiniz.
-
----
